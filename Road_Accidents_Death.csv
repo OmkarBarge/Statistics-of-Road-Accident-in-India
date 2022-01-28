@@ -1,0 +1,11 @@
+Category,Vehicle Type,2016 - No. of Accidents,Percentage Share to total Accident - 2016,2016 - Persons killed,Percentage Share to total Killed - 2016,2016 - Persons injured,Percentage Share to total injured - 2016,2017 - No. of Accidents,Percentage Share to total Accident - 2017,2017 - Persons killed,Percentage Share to total Killed - 2017,2017 - Persons injured,Percentage Share to total injured - 2017
+A. Motorized Vehicles,Two-wheelers,162280,33.8,44366,29.4,153060,30.9,157723,33.9,44092,29.8,148907,31.6
+A. Motorized Vehicles,Auto-rickshaws,31440,6.5,6767,4.5,39680,8,29351,6.3,6762,4.6,35682,7.6
+A. Motorized Vehicles,"Cars, Jeeps, Taxis",113267,23.6,32599,21.6,125773,25.4,113737,24.5,31183,21.1,123156,26.1
+A. Motorized Vehicles,Buses,37487,7.8,12088,8,50686,10.3,32145,6.9,10651,7.2,44330,9.4
+A. Motorized Vehicles,"Trucks, Tempos, Tractors",101085,21,39504,26.2,91784,18.6,92818,20,37505,25.4,87453,18.6
+A. Motorized Vehicles,Other motor vehicles,13255,2.8,5886,3.9,11607,2.3,NA,NA,NA,NA,NA,NA
+A. Motorized Vehicles,Sub-total of (A ),458814,95.5,141210,93.6,472590,95.5,425774,91.6,130193,88,439528,93.3
+B. Non-motorized vehicles,B. Non-motorized vehicles,4255,0.9,1728,1.2,3799,0.8,6376,1.4,2798,1.9,4992,1.1
+C. Other,C. Other,17583,3.6,7847,5.2,18235,3.7,32760,7,14922,10.1,26455,5.6
+Total (A+B+C),Total (A+B+C),480652,100,150785,100,494624,100,464910,100,147913,100,470975,100
